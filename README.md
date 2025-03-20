@@ -1,1 +1,1 @@
-# dise-o-sistemas-g2
+# disenio-de-sistemas-g2
